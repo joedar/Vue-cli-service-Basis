@@ -21,3 +21,7 @@ npm run build
 > You can quickly build your web project with .vue single file component
 
 > everything is simple
+
+## THE STAR
+
+> If you feel like it is good, please give me star ! thank you !

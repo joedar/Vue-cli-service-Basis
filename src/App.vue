@@ -1,6 +1,6 @@
 <template>
 	<div class="apps">
-		<span>{{ hello }}</span>
+		<div><span>{{ hello }}</span></div>
 	</div>
 </template>
 <script>
